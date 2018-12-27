@@ -1,0 +1,9 @@
+{
+    "grasshopper-5": {
+        "Description": "First public beta release",
+        "Root": "https://github.com/EmilPoulsen/Emu.Resources/blob/master/builds/",
+        "Name": "emu-grasshopper-",
+        "Version": "1.0.0",
+        "Extension": ".msi"
+    }
+}
