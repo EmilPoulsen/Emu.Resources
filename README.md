@@ -9,9 +9,10 @@ More information here: [https://emilpoulsen.com/emu/](https://emilpoulsen.com/em
 This is the place where examples, demos, wikis and other resources for Emu will be shared. It will get updated as the app evolves.
 
 # Content
+[Builds](/builds)
 
 [Examples](/examples)
 
-[Theory](/theory)
+[FAQ](/faq)
 
-[Builds](/builds)
+[Theory](/theory)
