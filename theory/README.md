@@ -1,0 +1,3 @@
+# Theory
+Emu is developed based on a 6DOF formulation of the dynamic relaxation method. Find more info here:
+[https://emilpoulsen.com/2018/08/20/structural-design-and-analysis-of-elastically-bent-gridshells-the-development-of-a-numerical-simulation-tool/](https://emilpoulsen.com/2018/08/20/structural-design-and-analysis-of-elastically-bent-gridshells-the-development-of-a-numerical-simulation-tool/)
