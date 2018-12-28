@@ -3,5 +3,5 @@ Here's where the example definitions for Emu is shared. Each example contains a 
 
 # Content
 
-## [Plywood strip torsion](/PlywoodStripTorsion)
-![Plywood strip torsion](/PlywoodStripTorsion/Emu_PlywoodStripTorsion_Preview.jpg)
+## [Plywood strip torsion](/examples/PlywoodStripTorsion)
+![Plywood strip torsion](/examples/PlywoodStripTorsion/Emu_PlywoodStripTorsion_Preview.jpg)
