@@ -8,3 +8,6 @@ Here's where the example definitions for Emu is shared. Each example contains a 
 
 ## [Simply Supported Beam](/examples/SimplySupportedBeam)
 ![Simply Supported Beam](/examples/SimplySupportedBeam/Emu_SimplySupportedBeam_Output1.jpg)
+
+## [Space Truss](/examples/SpaceTruss)
+![Space Truss](/examples/SpaceTruss/Emu_SpaceTruss_Output.jpg)
