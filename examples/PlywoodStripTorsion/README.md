@@ -6,7 +6,7 @@ This example shows how to analyze a clamped beam subjected to a torsion point lo
 ## Instructions
 1. Download the [definition](Emu_PlywoodStripTorsion.gh)
 2. Open the definition in Rhino 5 or Rhino 6
-3. Star the simulation by double clicking on the timer component.
+3. Start the simulation by double clicking on the timer component.
 
 ## Preview
 
