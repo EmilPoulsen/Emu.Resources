@@ -20,8 +20,6 @@ Extra:
 12. To restart the simulation, mote the supports back to its original state (see step 4) and hit the Reset button on the Dynamic Relaxation component.
 
 ## Preview
-TODO
-
-![Preview of output](Emu_ElasticGridshellFormation_Preview.jpg)
+![Preview of output](Emu_ElasticGridshellFormation_Preview.gif)
 
 ![Preview of Grasshopper definition](Emu_ElasticGridshellFormation_Definition.jpg)

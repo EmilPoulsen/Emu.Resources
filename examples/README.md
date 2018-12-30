@@ -1,7 +1,10 @@
 # Examples
-Here's where the example definitions for Emu is shared. Each example contains a .gh file, description, image of output and  screengrab of the definition.
+Here's where the example definitions for Emu is shared. Each example contains a .gh file, description, image of output and screengrab of the Grasshopper definition.
 
 # Content
+
+## [Elastic Gridshell Formation](/examples/ElasticGridshellFormation)
+![Space Truss](/examples/ElasticGridshellFormation/Emu_ElasticGridshellFormation_Preview.gif)
 
 ## [Plywood Strip Torsion](/examples/PlywoodStripTorsion)
 ![Plywood strip torsion](/examples/PlywoodStripTorsion/Emu_PlywoodStripTorsion_Preview.jpg)
