@@ -15,6 +15,7 @@ This example demonstrates how Emu can be used to simulate the formation process 
 9. Now enable the DiagramViewer component by hitting play on the data dam to visualize bi-axial bending and torsion.
 
 Extra:
+
 10. Change the Element Type in the Diagram Viewer to view moments about different axes (minor/major/torsion).
 11. Use the Element Index selector to visualize diagrams of two different groups representing the two directions of the grid.
 12. To restart the simulation, mote the supports back to its original state (see step 4) and hit the Reset button on the Dynamic Relaxation component.
