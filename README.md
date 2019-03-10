@@ -17,4 +17,6 @@ This is the place where examples, demos, wikis and other resources for Emu will 
 
 [FAQ](/faq)
 
+[Reference](/reference)
+
 [Theory](/theory)
