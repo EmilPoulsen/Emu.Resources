@@ -20,3 +20,6 @@ This is the place where examples, demos, wikis and other resources for Emu will 
 [Reference](/reference)
 
 [Theory](/theory)
+
+# Support Emu
+Do you find Emu useful? [Buy me a coffe](https://www.buymeacoffee.com/2SRF6X1V6S)! :)
