@@ -2,6 +2,9 @@
 ## Description
 This example demonstrates how Emu can be used to simulate torsion and bending along different axes.
 
+> [!IMPORTANT]  
+> This example requires Emu 1.3.1 or higher.
+
 ## Instructions
 1. Download the [definition](Emu_AngledCantilever.gh)
 2. Open the definition in Rhino 7
