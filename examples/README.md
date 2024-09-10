@@ -17,3 +17,6 @@ Here's where the example definitions for Emu is shared. Each example contains a 
 
 ## [Force Density Grid](/examples/ForceDensityGrid)
 ![Space Truss](/examples/ForceDensityGrid/Emu_ForceDensityFlatGridStifferEdges_Thumbnail.png)
+
+## [Angled Cantilever](/examples/AngledCantilever)
+![Angled Cantilever](/examples/AngledCantilever/Emu_AngledCantilever_Thumbnail.png)
